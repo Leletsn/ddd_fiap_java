@@ -18,9 +18,8 @@ public class CalculaMedia {
         media = (n1 + n2 + n3) / 3;
 
 
-//        Saida de Dados
-//        System.out.println("A media é: " + media);
-
+        // Saida de Dados
+        // System.out.println("A media é: " + media);
 
         Scanner lerNumero = new Scanner(System.in);
 

@@ -23,8 +23,6 @@ public class Personagem {
         this.vida = nivel * 50;
     }
 
-
-
     //getters and setters
     /*
     Gerar getters and setters de forma automática

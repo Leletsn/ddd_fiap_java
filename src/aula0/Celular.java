@@ -9,7 +9,7 @@ public class Celular {
         System.out.println("Ligando...");
 }
 
-void desligar(){
+    void desligar(){
     System.out.println("Desligando...");
 }
 

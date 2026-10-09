@@ -5,7 +5,7 @@ public class CarroTeste {
     public static void main(String[] args) {
 
         //criando o objeto carro1 do tipo Carro
-        Carro carro1 = new Carro();
+        aula1.Carro carro1 = new aula1.Carro();
 
         //atribuindo valores para o objeto
         carro1.marca = "Fiat";
@@ -21,7 +21,7 @@ public class CarroTeste {
 
         System.out.println("\n---------------------------------------\n");
 
-        Carro carro2 = new Carro();
+        aula1.Carro carro2 = new aula1.Carro();
         carro2.marca = "Jeep";
         carro2.modelo = "Compass";
         carro2.cor = "Preto";

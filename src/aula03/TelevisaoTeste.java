@@ -6,7 +6,7 @@ public class TelevisaoTeste {
         System.out.println("---- Minha Televisão ----");
 
         // Instanciando Objeto - Tipo = Televisão.
-        Televisao tv = new Televisao();
+        aula3.Televisao tv = new aula3.Televisao();
 
         System.out.println("\nObjeto: " + tv);
 

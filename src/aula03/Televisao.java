@@ -11,7 +11,7 @@ public class Televisao {
     private String marca;
 
 
-//    Metodos da classe televisão
+    // Metodos da classe televisão
 
     // Metodos de acesso - Acessores GETTERS
     public int getCanal() {

@@ -5,8 +5,8 @@ public class TestePersonagem {
     public static void main(String[] args){
 
         //1. Usando o construtor PADRÃO (default)
-        Personagem p1 = new Personagem();
-        Personagem p2 = new Personagem();
+        aula4.Personagem p1 = new aula4.Personagem();
+        aula4.Personagem p2 = new aula4.Personagem();
 
 //        System.out.println("Dados do objeto p1: ");
 //        System.out.println("Nome: " + p1.getNome());
@@ -27,8 +27,8 @@ public class TestePersonagem {
         System.out.println("\n------------------------");
 
         //2. Usando o construtor parametrizado
-        Personagem p3 = new Personagem("Aragorn", 10);
-        Personagem p4 = new Personagem("Legolas", 10);
+        aula4.Personagem p3 = new aula4.Personagem("Aragorn", 10);
+        aula4.Personagem p4 = new aula4.Personagem("Legolas", 10);
 
 //        System.out.println("Dados objeto p3: ");
 //        System.out.println("Nome: " + p3.getNome());
